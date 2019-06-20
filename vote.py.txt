@@ -1,0 +1,8 @@
+#python code goes here
+#python version :3 
+age = int(input("Enter Age : "))
+if (age>=18):
+    print "elligable to vote"
+else:
+    print "not to vote"
+    
