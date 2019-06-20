@@ -1,0 +1,5 @@
+a="good"
+
+print (a.find ('o'))
+
+print (a.replace("good","GOOD"))
